@@ -1,6 +1,6 @@
 # Exp3-Sobel-edge-detection-filter-using-CUDA-to-enhance-the-performance-of-image-processing-tasks.
-<h3>ENTER YOUR NAME : Bindhujaa S</h3>
-<h3>ENTER YOUR REGISTER NO : 212224230038</h3>
+<h3>ENTER YOUR NAME : Ajin A</h3>
+<h3>ENTER YOUR REGISTER NO : 212224230011</h3>
 <h3>EX. NO : 3</h3>
 <h3>DATE : 19/03/2026</h3>
 <h1> <align=center> Sobel edge detection filter using CUDA </h3>
